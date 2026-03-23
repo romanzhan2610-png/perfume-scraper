@@ -1,0 +1,13 @@
+# Environments
+.env
+venv/
+env/
+__pycache__/
+
+# Scraper artifacts
+proxy_auth_plugin/
+database.jsonl
+
+# OS generated files
+.DS_Store
+Thumbs.db
